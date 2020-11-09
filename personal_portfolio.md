@@ -2,7 +2,7 @@
 
 
 Datacamp courses:
-- 9 courses of Datacamp, see screenshots (in repository -> minor-data-science).
+- 10 courses of Datacamp, see screenshots (in repository -> minor-data-science).
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png
