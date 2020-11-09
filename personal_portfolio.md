@@ -12,6 +12,7 @@ https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6)
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png
+https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png
 
 Reflection and evaluation:   (400 woorden en STARR method)
 (Reflection on own contribution to the product) //
