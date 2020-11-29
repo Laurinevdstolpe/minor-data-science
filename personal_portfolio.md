@@ -20,20 +20,21 @@ Reflection and evaluation:   (400 woorden en STARR method)
 (Evaluation on the group project as a whole) //
 
 Research project:
-(Task definition) Rick and I sat together to clearly discribe the context and research question a few times.
-We had to adjust the reserch question a few times, because we knew what the problem owner wanted, but not how we would get there.
-Which question did we have to ask ourselves to get to the model for the problem owner.
-- Voeg de link naar de resultaten ook toe (liefst ook inclusief 1 of 2 verschillende iteraties). 
-- Om hier maximaal te scoren zul je moeten laten zien dat je ook de onderzoeksvragen hebt gekoppeld aan de context van de opdrachtgever. 
-- Dus wat heb je gedaan om die context te begrijpen en kunt je (kort) aangeven wat de consequenties daarvan zijn geweest op de onderzoeksvragen?
+(Task definition) Rick and I sat together to clearly discribe the context and research question a few times. The first time we created a research question we came to the following: How many parcels do we predict every client will process the next day?
+We had to adjust the reserch question after that, because we knew what the problem owner wanted, but not how we would get there. The problem owner said that we needed to be more precise, so implement the fact that we were working with machine learning models. 
+So after that we created the next research question: which machine learning model will result in the best prediction for the the amount of packages for the next day, based on the given data by PostNL? 
+Then I had to look at the subquestions that could give an awnser to this research question and based them on the workshop we had from Tony Andrioli about the research methods. So I discussed it with Rick and took one from library (literature study): Wat zijn de meest gangbare machine learning modellen voor het voorspellen van tijdsreeksen?, workshop (prototype): Welke modellen zijn het best toepasbaar op de gegeven data?, field (data analyse): Welke data kan worden gebruikt voor het verbeteren van de voorspelling?, lab (data analyse): Welke data kan worden gebruikt voor het verbeteren van de voorspelling? 
+Now that the subquestions were made, Rick and I started to take a second look at the research question and saw that it wasn't an open question, so we made a third research question and decided that our product owner had to decide which he thought was best. That last reseacht question was:	Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
+And this is the one our product owner thought was best so we made that our final research question. 
+(You can see this in the onderzoeksplan in teams by planning.)
+
 (Evaluation) //
 (Conclusions) //
-(Planning) Rick and I sat together for a few times to plan the whole project.
-I came up with the idea to do one sprint a week where we come together on monday and figure out what we want to do that week.
+(Planning) In the beginning of this project I said that we should do a daily standup every day, except for weekends, but the majority of the group didn't agree and said they didn't want to be awake that early every day. So we decided to try three times a week (monday, wednesday and friday), but after we had our meeting with Gerda we knew that wasn't going to work so we changed it to my proposal and do it five times a week. Rick and I sat together for a few times to plan the whole project.
+In week 7 I came up with the idea to do one sprint a week where we come together on monday and figure out what we want to do that week, we call this sprint planning. Rick than said that we also needed a retrospective, so we have been doing this ever since. (You can find this in the map Retrospective under Parcel).
 Also I came up with the plan to do literature study till week 8 and then begin with the models that we found in the literature.
 Rick and I described an overview for the rest of the teammembers, so how many weeks we have till the final presentation and what we should do in that time.
-You can see what we did in the onderzoeksplan in teams by planning.
-- Kun je ook iets vertellen over de andere elementen van scrum? (daily standup, retrospective …)
+(You can see what we did in the onderzoeksplan in teams by planning.)
 
 Predictive analytics:
 (Selecting a model) I chose the silmpe models to get a good insight to models and which work best on our data.
@@ -63,6 +64,7 @@ Communication:
 You may have noticed that since I changed the formatting of the slides this presentation, everybody is re-using that format.
 I gave it a ogange look and put the PostNL logo on every slide so it is obvious what group we are.
 I got two questions and anwsered them myself, for the rest I only got good feedback from the problem owner and the supervisors. 
+Then I prepared and gave another presentation on monday the 16th of november. The questions that were asked here, I awnsered myself. I got a comment that we had to take a look at the day before and not the week before when we predict something. This was a usefull comment of Jeroen Vuurens. For the rest I was told that we had to tell more about what we train, validate and test our model with. Also usefull. For the rest there were no remarks. 
 (Writing paper) //
 
 
