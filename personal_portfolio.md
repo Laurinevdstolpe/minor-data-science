@@ -39,18 +39,18 @@ Rick and I described an overview for the rest of the teammembers, so how many we
 (You can see what we did in the onderzoeksplan in teams by planning.)
 
 Predictive analytics:
-(Selecting a model) As a group we decided that we would split up in two groups of three. My group had to create a multi variate linear regression model. We decided this model was right because we did literature study on it (https://otexts.com/fpp3/) and was recommended by our instructors. 
+(Selecting a model) As a group we decided that we would split up in two groups of three. My group had to create a multivariate linear regression model. We decided this model was the right model for our problem, because I did literature study on it (https://otexts.com/fpp3/) and it came out as a good model to start with. It was also recommended by our instructors. 
 
-(Configuring a model) Here is the link were you can find the model I created for client 153 of our data:https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb
-I chose the feature last day, because the correlation between the next day and day before was good (see:https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/mvlr%20feature%20weekdagen%20klant%20153.ipynb )
-Initially the correlation between next day prediction and holidays wasn’t very good, but I tried it anyways to see if the model became better and it did, so I kept that feature as well. 
+(Configuring a model) Here is the link were you can find the model I created for client 153 of our data: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb
+I chose the feature 'last day', because the correlation between 'the next day' and 'day before' was good (see:https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/mvlr%20feature%20weekdagen%20klant%20153.ipynb )
+Initially the correlation between 'next day' prediction and 'holidays' wasn’t very good, but I tried it anyways to see if the model became better and it did, so I kept that feature as well. 
 
-(Training a model) So when I trained the model I run it a couple of times to see when the model was at its best. So for example I tried to take 2015 to 2018 as training set and then testing it on 2019. Then changing it to training: 2015 to 2019 month 11 and testing it on 2019 month 12. Eventually it ran best with 2015-2019 month 7 and testing it on 2019 month 7 to 2019 month 11. 
+(Training a model) So when I trained the model I ran it a couple of times to see when the model was at its best. So for example I tried to take 2015 to 2018 as training set and then testing it on 2019. Then changing it to training: 2015 to 2019 month 11 and testing it on 2019 month 12. Eventually it ran best with 2015-2019 month 7 and testing it on 2019 month 7 to 2019 month 11. see: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb
 
-(Evaluating a model) We take a look at the difference between the model above and this model:https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
+(Evaluating a model) We take a look at the difference between the model above and this model: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
 We can see that they are both pretty good at predicting the amount of packages for the next day. 
 
-(Visualizing the outcome of a model) See links above. 
+(Visualizing the outcome of a model) See links: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb and https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
 
 Domain knoweldge:
 (Introduction of the subject field) Here is what I wrote as introduction to the subject field in Dutch:
@@ -59,6 +59,7 @@ Om ervoor te zorgen dat de organisatie beter kan anticiperen op onverwachte situ
 Tot nu toe is er nog weinig onderzoek gedaan naar een voorspellend model voor pakketten. De hypothese is dat er een aantal benodigde machine learning modellen uitkomen die het probleem van PostNL kunnen helpen. Uiteindelijk wordt de data die PostNL uitgeeft beschermd door de namen van klanten niet uit te geven, waardoor er een onderzoekskloof ontstaat. Dit deel van de data zou namelijk het onderzoek kunnen helpen bij het vinden van het beste model voor ieder individuele klant.  
 De onderzoeksvraag luidt: Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
 In dit onderzoek wordt er een geheel nieuwe benadering genomen, er is namelijk geen vooronderzoek.  
+
 (Literature research) I found eleven relevant articles about machine learning in predicting things. But not all of them are still in our shared document, because we had to select four of them, but here are those four:
 https://otexts.com/fpp3/
 Google scholar term : forecasting
