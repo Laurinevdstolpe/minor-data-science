@@ -11,10 +11,10 @@ Instructors: Tony Andrioli;  Brian de Keijzer;  Brian de Keijzer;  Geertruida in
 
 task definition: This portfolio summerizes my individual work and effort for the parcel project of the applied data science minor at the the hageu university. In the parcel project we aim to predict the number of parcels for the next day.
 
-the main research question and subquestions are:
+the main research question is:
 - Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
 
-subquenstions:
+the subquenstions are:
 - Wat zijn de meest gangbare machine learning modellen voor het voorspellen van tijdsreeksen? (Literatuur studie) 
 - Welke modellen zijn het best toepasbaar op de gegeven data? (Prototyping) 
 - Welke data kan worden gebruikt voor het verbeteren van de voorspelling? (Data analyse) 
