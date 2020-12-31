@@ -1,8 +1,22 @@
-**Personal portfolio of Laurine van de Stolpe** (Parcel)
+# Personal portfolio of Laurine van de Stolpe (Parcel)
+
+student name: Laurine van de Stolpe
+Student number: 18122256
+course: applied data science minor
+Instructors: Tony Andrioli;  Brian de Keijzer;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
 
 
-Datacamp courses:
-- 10 courses of Datacamp, see screenshots (in repository -> minor-data-science).
+task definition: This portfolio summerizes my individual work and effort for the parcel project of the applied data science minor at the the hageu university. In the parcel project we aim to predict the number of parcels for the next day.
+
+the main research question and subquestions are:
+- 
+- 
+-
+-
+-
+
+Datacamp courses I have finished:
+- 10 courses of Datacamp
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png
@@ -19,7 +33,7 @@ Reflection and evaluation:   (400 woorden en STARR method)
 (Reflection on own learning objectives) //
 (Evaluation on the group project as a whole) //
 
-Research project:
+## Research project:
 (Task definition) Rick and I sat together to clearly discribe the context and research question a few times. The first time we created a research question we came to the following: How many parcels do we predict every client will process the next day?
 We had to adjust the reserch question after that, because we knew what the problem owner wanted, but not how we would get there. The problem owner said that we needed to be more precise, so implement the fact that we were working with machine learning models. 
 So after that we created the next research question: which machine learning model will result in the best prediction for the the amount of packages for the next day, based on the given data by PostNL? 
@@ -38,7 +52,7 @@ Also I came up with the plan to do literature study till week 8 and then begin w
 Rick and I described an overview for the rest of the teammembers, so how many weeks we have till the final presentation and what we should do in that time.
 (You can see what we did in the onderzoeksplan in teams by planning.)
 
-Predictive analytics:
+## Predictive analytics:
 (Selecting a model) As a group we decided that we would split up in two groups of three. My group had to create a multivariate linear regression model. We decided this model was the right model for our problem, because I did literature study on it (https://otexts.com/fpp3/) and it came out as a good model to start with. It was also recommended by our instructors. 
 
 (Configuring a model) Here is the link were you can find the model I created for client 153 of our data: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb
@@ -52,7 +66,7 @@ We can see that they are both pretty good at predicting the amount of packages f
 
 (Visualizing the outcome of a model) See links: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb and https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
 
-Domain knoweldge:
+## Domain knoweldge:
 (Introduction of the subject field) Here is what I wrote as introduction to the subject field in Dutch:
 PostNL is een internationaal dienstverlener in post, pakketten en e-commerce gerelateerde zaken. In dit onderzoek wordt er alleen aandacht gegeven aan de pakketten van PostNL in Nederland. Bij het verwerkingsproces van deze pakketten gaat het al snel om duizenden pakketten per dag. Om er zeker van te zijn dat alle pakketten op tijd worden verwerkt, moet de organisatie ten alle tijden over genoeg capaciteit, betreft het aantal werknemers, beschikken. Aan de hand van allerlei verschillende factoren kunnen er echter inconsistenties ontstaan in het aantal pakketten dat verwerkt moet worden. Dit vormt een probleem, aangezien een onverwachte stijging in het aantal pakketten druk legt op het aantal werknemers binnen dit verwerkingsproces, dat uiteindelijk kan leiden tot vertragingen. 
 Om ervoor te zorgen dat de organisatie beter kan anticiperen op onverwachte situaties, wil de organisatie hun verwerkingsproces volledig automatiseren. Van het verzamelen van de pakketten tot het leveren van de juiste pakketten bij de juiste klant. Een bijdrage aan de overstap naar een volledig autonoom proces, is de ontwikkeling van een model dat dagelijks het aantal te verwerken pakketten kan voorspellen. Voordat deze ontwikkeling plaats kan vinden, is echter eerst een onderzoek nodig naar de toepassing van de benodigde machine learning modellen.  
@@ -85,7 +99,7 @@ Data preprocessing:
 (Data explenation) //
 (Data visualization) //
 
-Communication:
+## Communication:
 (Presentations) I prepared and gave 1 presentation on friday the 25th of september. 
 You may have noticed that since I changed the formatting of the slides this presentation, everybody is re-using that format.
 I gave it a ogange look and put the PostNL logo on every slide so it is obvious what group we are.
@@ -122,7 +136,7 @@ Verwijzen naar opening. 
   
 Om ons te beoordelen (slide 17,18, 19, 20, 21)  
 
-Introductie (introduction)
+## Introductie (introduction)
 PostNL is een internationaal dienstverlener in post, pakketten en e-commerce gerelateerde zaken. In dit onderzoek wordt er alleen aandacht gegeven aan de pakketten van PostNL in Nederland. Bij het verwerkingsproces van deze pakketten gaat het al snel om duizenden pakketten per dag. Om er zeker van te zijn dat alle pakketten op tijd worden verwerkt, moet de organisatie ten alle tijden over genoeg capaciteit, betreft het aantal werknemers, beschikken. Aan de hand van allerlei verschillende factoren kunnen er echter inconsistenties ontstaan in het aantal pakketten dat verwerkt moet worden. Dit vormt een probleem, aangezien een onverwachte stijging in het aantal pakketten druk legt op het aantal werknemers binnen dit verwerkingsproces, dat uiteindelijk kan leiden tot vertragingen. 
 Om ervoor te zorgen dat de organisatie beter kan anticiperen op onverwachte situaties, wil de organisatie hun verwerkingsproces volledig automatiseren. Van het verzamelen van de pakketten tot het leveren van de juiste pakketten bij de juiste klant. Een bijdrage aan de overstap naar een volledig autonoom proces, is de ontwikkeling van een model dat dagelijks het aantal te verwerken pakketten kan voorspellen. Voordat deze ontwikkeling plaats kan vinden, is echter eerst een onderzoek nodig naar de toepassing van de benodigde machine learning modellen.  
 Tot nu toe is er nog weinig onderzoek gedaan naar een voorspellend model voor pakketten. De hypothese is dat er een aantal benodigde machine learning modellen uitkomen die het probleem van PostNL kunnen helpen. Uiteindelijk wordt de data die PostNL uitgeeft beschermd door de namen van klanten niet uit te geven, waardoor er een onderzoekskloof ontstaat. Dit deel van de data zou namelijk het onderzoek kunnen helpen bij het vinden van het beste model voor ieder individuele klant.  
