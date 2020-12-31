@@ -21,24 +21,36 @@ the subquenstions are:
 - Hoe betrouwbaar zijn de voorspellingen van de eerder gekozen modellen? (Product review) 
 
 Datacamp courses I have finished:
-[intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png)
+
+[intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png
+
 [manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png)
+
 [pandas functions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png)
+
 [introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png)
+
 [introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png)
+
 [python data science toolbox (part 1)]([https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png)
-[python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png)
+
+[python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png)
+
 [data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png)
+
 [cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png)
+
 [preprocessinghttps for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png)
 
-Reflection and evaluation:   (400 woorden en STARR method
 
-(Reflection on own contribution to the product) //
 
-(Reflection on own learning objectives) //
+*Reflection and evaluation:   (400 woorden en STARR method
 
-(Evaluation on the group project as a whole) //
+*(Reflection on own contribution to the product) //
+
+*(Reflection on own learning objectives) //
+
+*(Evaluation on the group project as a whole) //
 
 ## Research project:
 (Task definition) Rick and I sat together to clearly discribe the context and research question a few times. The first time we created a research question we came to the following: How many parcels do we predict every client will process the next day?
