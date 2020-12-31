@@ -21,16 +21,16 @@ the subquenstions are:
 - Hoe betrouwbaar zijn de voorspellingen van de eerder gekozen modellen? (Product review) 
 
 Datacamp courses I have finished:
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png
-- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png
+[intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png)
+[manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png)
+[pandas functions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png)
+[introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png)
+[introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png)
+[python data science toolbox (part 1)]([https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png)
+[python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png)
+[data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png)
+[cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png)
+[preprocessinghttps for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png)
 
 Reflection and evaluation:   (400 woorden en STARR method
 
