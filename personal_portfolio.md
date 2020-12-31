@@ -1,19 +1,24 @@
 # Personal portfolio of Laurine van de Stolpe (Parcel)
 
 student name: Laurine van de Stolpe
+
 Student number: 18122256
+
 course: applied data science minor
+
 Instructors: Tony Andrioli;  Brian de Keijzer;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
 
 
 task definition: This portfolio summerizes my individual work and effort for the parcel project of the applied data science minor at the the hageu university. In the parcel project we aim to predict the number of parcels for the next day.
 
 the main research question and subquestions are:
-- 
-- 
--
--
--
+- Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
+
+subquenstions:
+- Wat zijn de meest gangbare machine learning modellen voor het voorspellen van tijdsreeksen? (Literatuur studie) 
+- Welke modellen zijn het best toepasbaar op de gegeven data? (Prototyping) 
+- Welke data kan worden gebruikt voor het verbeteren van de voorspelling? (Data analyse) 
+- Hoe betrouwbaar zijn de voorspellingen van de eerder gekozen modellen? (Product review) 
 
 Datacamp courses I have finished:
 - 10 courses of Datacamp
@@ -28,9 +33,12 @@ https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png
 https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png
 
-Reflection and evaluation:   (400 woorden en STARR method)
+Reflection and evaluation:   (400 woorden en STARR method
+
 (Reflection on own contribution to the product) //
+
 (Reflection on own learning objectives) //
+
 (Evaluation on the group project as a whole) //
 
 ## Research project:
