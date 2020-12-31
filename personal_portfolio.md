@@ -21,17 +21,16 @@ the subquenstions are:
 - Hoe betrouwbaar zijn de voorspellingen van de eerder gekozen modellen? (Product review) 
 
 Datacamp courses I have finished:
-- 10 courses of Datacamp
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png
-https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png
+- https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png
 
 Reflection and evaluation:   (400 woorden en STARR method
 
