@@ -22,7 +22,7 @@ the subquenstions are:
 
 Datacamp courses I have finished:
 
-[intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png
+[intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png)
 
 [manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png)
 
@@ -32,7 +32,7 @@ Datacamp courses I have finished:
 
 [introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png)
 
-[python data science toolbox (part 1)]([https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png)
+[python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png)
 
 [python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png)
 
@@ -44,13 +44,13 @@ Datacamp courses I have finished:
 
 
 
-*Reflection and evaluation:   (400 woorden en STARR method
+reflection and evaluation:   (400 woorden en STARR method
 
-*(Reflection on own contribution to the product) //
+(Reflection on own contribution to the product) //
 
-*(Reflection on own learning objectives) //
+(Reflection on own learning objectives) //
 
-*(Evaluation on the group project as a whole) //
+(Evaluation on the group project as a whole) //
 
 ## Research project:
 (Task definition) Rick and I sat together to clearly discribe the context and research question a few times. The first time we created a research question we came to the following: How many parcels do we predict every client will process the next day?
