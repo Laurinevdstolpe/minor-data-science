@@ -1,50 +1,65 @@
 # Personal portfolio of Laurine van de Stolpe (Parcel)
 
-student name: Laurine van de Stolpe
 
-Student number: 18122256
+## student information
 
-course: applied data science minor
+**student name:** Laurine van de Stolpe
 
-Instructors: Tony Andrioli;  Brian de Keijzer;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
+**Student number:** 18122256
 
+**course:** applied data science minor
 
-task definition: This portfolio summerizes my individual work and effort for the parcel project of the applied data science minor at the the hageu university. In the parcel project we aim to predict the number of parcels for the next day.
+**Instructors:** Tony Andrioli;  Brian de Keijzer;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
 
-the main research question is:
-- Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
-
-the subquenstions are:
-- Wat zijn de meest gangbare machine learning modellen voor het voorspellen van tijdsreeksen? (Literatuur studie) 
-- Welke modellen zijn het best toepasbaar op de gegeven data? (Prototyping) 
-- Welke data kan worden gebruikt voor het verbeteren van de voorspelling? (Data analyse) 
-- Hoe betrouwbaar zijn de voorspellingen van de eerder gekozen modellen? (Product review) 
-
-Datacamp courses I have finished:
-
-[intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png)
-
-[manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png)
-
-[pandas functions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png)
-
-[introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png)
-
-[introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png)
-
-[python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png)
-
-[python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png)
-
-[data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png)
-
-[cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png)
-
-[preprocessinghttps for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png)
+**task definition:** This portfolio summerizes my individual work and effort for the parcel project of the applied data science minor at the the hageu university. In the parcel project we aim to predict the number of parcels for the next day.
 
 
 
-reflection and evaluation:   (400 woorden en STARR method
+## content
+
+**1.1 DataCamp course**
+
+**1.2 Reflection and evaluation**
+
+**2. Research project**
+
+**3. Predictive Analytics**
+
+**4. Domain knowledge**
+
+**5. Data preprocessing**
+
+**6. Communication**
+
+
+
+### 1.1 DataCamp Course
+
+**Datacamp courses I have finished:**
+
+[1. intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png)
+
+[2. manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png)
+
+[3. pandas functions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png)
+
+[4. introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png)
+
+[5. introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png)
+
+[6. python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png)
+
+[7. python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png)
+
+[8. data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png)
+
+[9. cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png)
+
+[10. preprocessinghttps for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png)
+
+
+
+### 1.2 reflection and evaluation   (400 woorden en STARR method
 
 (Reflection on own contribution to the product) //
 
