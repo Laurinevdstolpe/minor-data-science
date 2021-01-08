@@ -67,7 +67,7 @@ ___
 
 1. [Reflection on own contribution to the product](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20product.md)
 
-2. [(Reflection on own learning objectives](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
+2. [Reflection on own learning objectives](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
 
 3. [Evaluation on the group project as a whole](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Evaluation%20on%20the%20group%20project%20as%20a%20whole.md)
 
@@ -79,13 +79,7 @@ ___
 
 ### 2. Research project
 
-**(Task definition)** Rick and I sat together to clearly discribe the context and research question a few times. The first time we created a research question we came to the following: How many parcels do we predict every client will process the next day?
-We had to adjust the reserch question after that, because we knew what the problem owner wanted, but not how we would get there. The problem owner said that we needed to be more precise, so implement the fact that we were working with machine learning models. 
-So after that we created the next research question: which machine learning model will result in the best prediction for the the amount of packages for the next day, based on the given data by PostNL? 
-Then I had to look at the subquestions that could give an awnser to this research question and based them on the workshop we had from Tony Andrioli about the research methods. So I discussed it with Rick and took one from library (literature study): Wat zijn de meest gangbare machine learning modellen voor het voorspellen van tijdsreeksen?, workshop (prototype): Welke modellen zijn het best toepasbaar op de gegeven data?, field (data analyse): Welke data kan worden gebruikt voor het verbeteren van de voorspelling?, lab (data analyse): Welke data kan worden gebruikt voor het verbeteren van de voorspelling? 
-Now that the subquestions were made, Rick and I started to take a second look at the research question and saw that it wasn't an open question, so we made a third research question and decided that our product owner had to decide which he thought was best. That last reseacht question was:	Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
-And this is the one our product owner thought was best so we made that our final research question. 
-(You can see this in the onderzoeksplan in teams by planning.)
+1. [Task definition](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/task%20definition.md)
 
 
 
