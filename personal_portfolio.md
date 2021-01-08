@@ -2,7 +2,7 @@
 
 
 
-## student information
+## Student and general information
 
 **Student name:** Laurine van de Stolpe
 
@@ -31,6 +31,9 @@
 **5. Data preprocessing**
 
 **6. Communication**
+
+
+___
 
 
 
