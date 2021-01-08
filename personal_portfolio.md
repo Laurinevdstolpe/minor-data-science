@@ -15,6 +15,9 @@
 **Task definition:** This portfolio summerizes my individual work and effort for the parcel project of the applied data science minor at the the hageu university. In the parcel project we aim to predict the number of parcels for the next day.
 
 
+___
+
+
 
 ## Content
 
@@ -62,6 +65,9 @@ ___
 1.1.10 [preprocessing for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(9).pdf)
 
 
+___
+
+
 
 ### 1.2 reflection and evaluation   (400 woorden en STARR method)
 
@@ -72,7 +78,6 @@ ___
 1.2.3 [Evaluation on the group project as a whole](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Evaluation%20on%20the%20group%20project%20as%20a%20whole.md)
 
 
-
 ___
 
 
@@ -81,18 +86,11 @@ ___
 
 2.1 [Task definition](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/task%20definition.md)
 
-
-
 2.2 [Evaluation](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/evaluation.md)
-
-
 
 2.3 [Conclusions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/conclusions.md)
 
-
-
 2.4 [Planning](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/planning.md)
-
 
 
 ___
@@ -103,22 +101,13 @@ ___
 
 3.1 [Selecting a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/selecting%20a%20model.md)
 
-
-
 3.2 [Configuring a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/configuring%20a%20model.md)
- 
-
 
 3.3 [Training a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/training%20a%20model.md)
 
-
-
 3.4 [Evaluating a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/evaluating%20a%20model.md)
 
-
-
 3.5 [Visualizing the outcome of a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/visualizing%20the%20outcome%20of%20a%20model.md)
-
 
 
 ___
@@ -127,35 +116,11 @@ ___
 
 ### 4. Domain knoweldge
 
-**(Introduction of the subject field)** Here is what I wrote as introduction to the subject field in Dutch:
-PostNL is een internationaal dienstverlener in post, pakketten en e-commerce gerelateerde zaken. In dit onderzoek wordt er alleen aandacht gegeven aan de pakketten van PostNL in Nederland. Bij het verwerkingsproces van deze pakketten gaat het al snel om duizenden pakketten per dag. Om er zeker van te zijn dat alle pakketten op tijd worden verwerkt, moet de organisatie ten alle tijden over genoeg capaciteit, betreft het aantal werknemers, beschikken. Aan de hand van allerlei verschillende factoren kunnen er echter inconsistenties ontstaan in het aantal pakketten dat verwerkt moet worden. Dit vormt een probleem, aangezien een onverwachte stijging in het aantal pakketten druk legt op het aantal werknemers binnen dit verwerkingsproces, dat uiteindelijk kan leiden tot vertragingen. 
-Om ervoor te zorgen dat de organisatie beter kan anticiperen op onverwachte situaties, wil de organisatie hun verwerkingsproces volledig automatiseren. Van het verzamelen van de pakketten tot het leveren van de juiste pakketten bij de juiste klant. Een bijdrage aan de overstap naar een volledig autonoom proces, is de ontwikkeling van een model dat dagelijks het aantal te verwerken pakketten kan voorspellen. Voordat deze ontwikkeling plaats kan vinden, is echter eerst een onderzoek nodig naar de toepassing van de benodigde machine learning modellen.  
-Tot nu toe is er nog weinig onderzoek gedaan naar een voorspellend model voor pakketten. De hypothese is dat er een aantal benodigde machine learning modellen uitkomen die het probleem van PostNL kunnen helpen. Uiteindelijk wordt de data die PostNL uitgeeft beschermd door de namen van klanten niet uit te geven, waardoor er een onderzoekskloof ontstaat. Dit deel van de data zou namelijk het onderzoek kunnen helpen bij het vinden van het beste model voor ieder individuele klant.  
-De onderzoeksvraag luidt: Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
-In dit onderzoek wordt er een geheel nieuwe benadering genomen, er is namelijk geen vooronderzoek.  
+4.1 [Introduction of the subject field](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Domain%20knoweldge/Introduction%20of%20the%20subject%20field.md)
 
+4.2 [Literature research](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Domain%20knoweldge/Literature%20research.md)
 
-
-**(Literature research)** I found eleven relevant articles about machine learning in predicting things. But not all of them are still in our shared document, because we had to select two of them, but here are five (the first two I selected as best):
-https://otexts.com/fpp3/
-Google scholar term : forecasting
-
-https://d1wqtxts1xzle7.cloudfront.net/53164853/Forecast_of_the_Commercial_UAS_Package_Delivery_Market-_2017.pdf?1495045023=&response-content-disposition=inline%3B+filename%3DForecast_of_the_Commercial_UAS_Package_D.pdf&Expires=1607532607&Signature=V1JPWPgXCNE8SiwJNRrmo05JkCHN5hkYBW1119is4UwhI4nNaMrHXlCvowty3sv-~RrHwnuGTukmOd2IjB71gRs4x9URQLqUdxCSm7grt1aRVwEFTFEv8ZAtGNFRiYLz8UagqOUi~5s2cArPcefxsQPXTGtk5lHByzw3EWFO6-~GY2mWHtCcRfaW1CETJzYVNwMBVCRQYTpixb9O6UassIm9pl0p8ZYiU9cmmzD3STzkipf4HNzprho7HORnVk44fKRpOyYKZeR~CyRv0yhK39kOMr9v0F-Ry~zE9Ypkl1fIWRu2zaahjm~nc~gIpezIkx7tyx3GljEfTKhusjCr6A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
-Google scholar term: how to forecast package delivery 
-
-https://patents.google.com/patent/US7676404B2/en 
-Google scholar term : forecasting package delivering 
- 
-https://books.google.nl/books?hl=nl&lr=&id=8FppWLEFHU8C&oi=fnd&pg=PA4&dq=techniques+for+time+series&ots=b4Yqk5UHtt&sig=DhC0AqOOX72d90NDCVdaTrpkwj8&redir_esc=y#v=onepage&q=techniques%20for%20time%20series&f=false 
-Google scholar term: time series analyses 
- 
-https://link.springer.com/chapter/10.1007%2F978-3-642-00296-0_5 
-Google scholar term: pearson correlation 
-
-
-
-**(Explanation of terminology, jargon and definitions)** You can find this on teams when you go to parcel – literatuur en referentiemateriaal – Glossary.
-
+4.3 [Explanation of terminology, jargon and definitions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Domain%20knoweldge/Explanation%20of%20terminology%2C%20jargon%20and%20definitions.md)
 
 
 ___
@@ -164,12 +129,15 @@ ___
 
 ### 5. Data preprocessing
 
-**(Data exploration)** //
-**(Data cleaning)** // In the weekends (of the data) there were a lot of zero-values, so I had to filter those out.
-**(Data preporation)** // With client 4 for example I needed to filter the first two years out, because it became a client after that.
-**(Data explenation)** //
-**(Data visualization)** //
+5.1 [Data exploration](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Data%20preprocessing/Data%20exploration.md)
 
+5.2 [Data cleaning](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Data%20preprocessing/Data%20cleaning.md)
+
+5.3 [Data preporation](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Data%20preprocessing/Data%20preporation.md)
+
+5.4 [Data explenation](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Data%20preprocessing/Data%20explenation.md)
+
+5.5 [Data visualization](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Data%20preprocessing/Data%20visualization.md)
 
 
 ____
@@ -178,53 +146,6 @@ ____
 
 ### 6. Communication
 
-**(Presentations)** I prepared and gave 1 presentation on friday the 25th of september. 
-You may have noticed that since I changed the formatting of the slides this presentation, everybody is re-using that format.
-I gave it a ogange look and put the PostNL logo on every slide so it is obvious what group we are.
-I got two questions and anwsered them myself, for the rest I only got good feedback from the problem owner and the supervisors. 
-Then I prepared and gave another presentation on monday the 16th of november. The questions that were asked here, I awnsered myself. I got a comment that we had to take a look at the day before and not the week before when we predict something. This was a usefull comment of Jeroen Vuurens. For the rest I was told that we had to tell more about what we train, validate and test our model with. Also usefull. For the rest there were no remarks. 
+6.1 [Presentations](https://github.com/Laurinevdstolpe/minor-data-science/create/main/Presentations.md)
 
-
-
-**(Writing paper)** Writing paper: I made an overview and wote the introduction for so far, here you can see what I wrote in Dutch:
-Overzicht (overview)
-Titel: Een titel is specifiek, duidelijk anders dan andere, niet te lang niet te kort, geen generale titel, denk aan wat mensen intypen in google scholar.  
-Abstract (in 1 zin al deze subs beantwoorden): motivatie: waarom boeit ons het resultaat? probleemstelling: wat is het probleem en wat is het bereik van het werk? Aanpak: wat is er gedaan om het probleem op te lossen? Resultaat: wat is het antwoord op het probleem? Conclusie: wat zegt het antwoord ons? (In verleden tijd! Geen referenties)  
-•	Introductie  
-(van probleem tot oplossing)  
-Onderzoeksvraag beantwoorden.  
-Slide 9!!!  
-•	Technieken  
-Illustraties van het algoritme.  
-Slide 10!!!  
-•	Methoden  
-Wat was het probleem? Beantwoorden.  
-Doel beschrijven.   
-In verleden tijd schrijven  
-Slide 11!!!  
-•	Resultaten  
-Wat zijn de resultaten?  
-In verleden tijd schrijven.  
-Moet duidelijk zijn!  
-Slide 12!!!  
-•	Discussie  
-Slide 13!!!  
-Lijst van referenties.  (slide 14!!!)  
-•	Conclusie  
-Wat betekenen je vindingen?  
-Verwijzen naar opening.  
-  
-Om ons te beoordelen (slide 17,18, 19, 20, 21)  
-
-Introductie (introduction)
-PostNL is een internationaal dienstverlener in post, pakketten en e-commerce gerelateerde zaken. In dit onderzoek wordt er alleen aandacht gegeven aan de pakketten van PostNL in Nederland. Bij het verwerkingsproces van deze pakketten gaat het al snel om duizenden pakketten per dag. Om er zeker van te zijn dat alle pakketten op tijd worden verwerkt, moet de organisatie ten alle tijden over genoeg capaciteit, betreft het aantal werknemers, beschikken. Aan de hand van allerlei verschillende factoren kunnen er echter inconsistenties ontstaan in het aantal pakketten dat verwerkt moet worden. Dit vormt een probleem, aangezien een onverwachte stijging in het aantal pakketten druk legt op het aantal werknemers binnen dit verwerkingsproces, dat uiteindelijk kan leiden tot vertragingen. 
-Om ervoor te zorgen dat de organisatie beter kan anticiperen op onverwachte situaties, wil de organisatie hun verwerkingsproces volledig automatiseren. Van het verzamelen van de pakketten tot het leveren van de juiste pakketten bij de juiste klant. Een bijdrage aan de overstap naar een volledig autonoom proces, is de ontwikkeling van een model dat dagelijks het aantal te verwerken pakketten kan voorspellen. Voordat deze ontwikkeling plaats kan vinden, is echter eerst een onderzoek nodig naar de toepassing van de benodigde machine learning modellen.  
-Tot nu toe is er nog weinig onderzoek gedaan naar een voorspellend model voor pakketten. De hypothese is dat er een aantal benodigde machine learning modellen uitkomen die het probleem van PostNL kunnen helpen. Uiteindelijk wordt de data die PostNL uitgeeft beschermd door de namen van klanten niet uit te geven, waardoor er een onderzoekskloof ontstaat. Dit deel van de data zou namelijk het onderzoek kunnen helpen bij het vinden van het beste model voor ieder individuele klant.  
-De onderzoeksvraag luidt: Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
-In dit onderzoek wordt er een geheel nieuwe benadering genomen, er is namelijk geen vooronderzoek.  
- 
-Dit moet er nog in, maar kan nu  nog niet: 
-(sketch the intent of the own work) 
-(outline important characteristics and results of your own work) 
-(give a brief outlook on the structure of the paper) 
-
+6.2 [Writing paper](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/Writing%20paper.md)
