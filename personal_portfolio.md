@@ -73,6 +73,10 @@ ___
 
 
 
+___
+
+
+
 ### 2. Research project
 
 **(Task definition)** Rick and I sat together to clearly discribe the context and research question a few times. The first time we created a research question we came to the following: How many parcels do we predict every client will process the next day?
@@ -101,6 +105,10 @@ Rick and I described an overview for the rest of the teammembers, so how many we
 
 
 
+___
+
+
+
 ### 3. Predictive analytics
 
 **(Selecting a model)** As a group we decided that we would split up in two groups of three. My group had to create a multivariate linear regression model. We decided this model was the right model for our problem, because I did literature study on it (https://otexts.com/fpp3/) and it came out as a good model to start with. It was also recommended by our instructors. 
@@ -123,6 +131,10 @@ We can see that they are both pretty good at predicting the amount of packages f
 
 
 **(Visualizing the outcome of a model)** See links: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb and https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
+
+
+
+___
 
 
 
@@ -159,6 +171,10 @@ Google scholar term: pearson correlation
 
 
 
+___
+
+
+
 ### 5. Data preprocessing
 
 **(Data exploration)** //
@@ -166,6 +182,10 @@ Google scholar term: pearson correlation
 **(Data preporation)** // With client 4 for example I needed to filter the first two years out, because it became a client after that.
 **(Data explenation)** //
 **(Data visualization)** //
+
+
+
+____
 
 
 
