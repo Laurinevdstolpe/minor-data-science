@@ -42,14 +42,23 @@ ___
 **Datacamp courses I have finished:**
 
 [1. intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png)
+
 [2. manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png)
+
 [3. pandas functions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(3).png)
+
 [4. introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(4).png)
+
 [5. introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(5).png)
+
 [6. python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(6).png)
+
 [7. python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(7).png)
+
 [8. data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-05.png)
+
 [9. cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-10-18.png)
+
 [10. preprocessinghttps for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-11-08.png)
 
 
