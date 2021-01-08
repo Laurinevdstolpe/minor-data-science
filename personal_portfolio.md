@@ -65,11 +65,11 @@ ___
 
 ### 1.2 reflection and evaluation   (400 woorden en STARR method)
 
-(Reflection on own contribution to the product) //
+1. [Reflection on own contribution to the product](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20product.md)
 
-(Reflection on own learning objectives) //
+2. [(Reflection on own learning objectives](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
 
-(Evaluation on the group project as a whole) //
+3. [Evaluation on the group project as a whole](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Evaluation%20on%20the%20group%20project%20as%20a%20whole.md)
 
 
 
