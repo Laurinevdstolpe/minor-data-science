@@ -41,35 +41,35 @@ ___
 
 **Datacamp courses I have finished:**
 
-1. [intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate.pdf)
+1.1.1 [intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate.pdf)
 
-2. [manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(1).pdf)
+1.1.2 [manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(1).pdf)
 
-3. [pandas foundations](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(2).pdf)
+1.1.3 [pandas foundations](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(2).pdf)
 
-4. [introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(4).pdf)
+1.1.4 [introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(4).pdf)
 
-5. [introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(3).pdf)
+1.1.5 [introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(3).pdf)
 
-6. [python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(5).pdf)
+1.1.6 [python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(5).pdf)
 
-7. [python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(6).pdf)
+1.1.7 [python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(6).pdf)
 
-8. [data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(7).pdf)
+1.1.8 [data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(7).pdf)
 
-9. [cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(8).pdf)
+1.1.9 [cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(8).pdf)
 
-10. [preprocessing for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(9).pdf)
+1.1.10 [preprocessing for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(9).pdf)
 
 
 
 ### 1.2 reflection and evaluation   (400 woorden en STARR method)
 
-1. [Reflection on own contribution to the product](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20product.md)
+1.2.1 [Reflection on own contribution to the product](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20product.md)
 
-2. [Reflection on own learning objectives](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
+1.2.2 [Reflection on own learning objectives](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
 
-3. [Evaluation on the group project as a whole](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Evaluation%20on%20the%20group%20project%20as%20a%20whole.md)
+1.2.3 [Evaluation on the group project as a whole](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Evaluation%20on%20the%20group%20project%20as%20a%20whole.md)
 
 
 
@@ -79,19 +79,19 @@ ___
 
 ### 2. Research project
 
-1. [Task definition](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/task%20definition.md)
+2.1 [Task definition](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/task%20definition.md)
 
 
 
-2. [Evaluation](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/evaluation.md)
+2.2 [Evaluation](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/evaluation.md)
 
 
 
-3. [Conclusions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/conclusions.md)
+2.3 [Conclusions](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/conclusions.md)
 
 
 
-4. [Planning](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/planning.md)
+2.4 [Planning](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/research%20project/planning.md)
 
 
 
@@ -101,26 +101,23 @@ ___
 
 ### 3. Predictive analytics
 
-**(Selecting a model)** As a group we decided that we would split up in two groups of three. My group had to create a multivariate linear regression model. We decided this model was the right model for our problem, because I did literature study on it (https://otexts.com/fpp3/) and it came out as a good model to start with. It was also recommended by our instructors. 
+3.1 [Selecting a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/selecting%20a%20model.md)
 
 
 
-**(Configuring a model)** Here is the link were you can find the model I created for client 153 of our data: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb
-I chose the feature 'last day', because the correlation between 'the next day' and 'day before' was good (see:https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/mvlr%20feature%20weekdagen%20klant%20153.ipynb )
-Initially the correlation between 'next day' prediction and 'holidays' wasn’t very good, but I tried it anyways to see if the model became better and it did, so I kept that feature as well. 
+3.2 [Configuring a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/configuring%20a%20model.md)
+ 
+
+
+3.3 [Training a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/training%20a%20model.md)
 
 
 
-**(Training a model)** So when I trained the model I ran it a couple of times to see when the model was at its best. So for example I tried to take 2015 to 2018 as training set and then testing it on 2019. Then changing it to training: 2015 to 2019 month 11 and testing it on 2019 month 12. Eventually it ran best with 2015-2019 month 7 and testing it on 2019 month 7 to 2019 month 11. see: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb
+3.4 [Evaluating a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/evaluating%20a%20model.md)
 
 
 
-**(Evaluating a model)** We take a look at the difference between the model above and this model: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
-We can see that they are both pretty good at predicting the amount of packages for the next day. 
-
-
-
-**(Visualizing the outcome of a model)** See links: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb and https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
+3.5 [Visualizing the outcome of a model](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/visualizing%20the%20outcome%20of%20a%20model.md)
 
 
 
