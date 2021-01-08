@@ -2,7 +2,7 @@
 
 
 
-## Student and general information
+## General information
 
 **Student name:** Laurine van de Stolpe
 
