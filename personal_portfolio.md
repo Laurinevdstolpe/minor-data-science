@@ -41,7 +41,7 @@ ___
 
 **Datacamp courses I have finished:**
 
-[1. intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(11).png)
+[1. intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate.pdf)
 
 [2. manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/2020-09-29%20(2).png)
 
