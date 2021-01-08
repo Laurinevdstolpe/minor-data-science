@@ -45,25 +45,25 @@ ___
 
 **Datacamp courses I have finished:**
 
-1.1.1 [intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate.pdf)
+1.1.1 [Intermediate python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate.pdf)
 
-1.1.2 [manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(1).pdf)
+1.1.2 [Manipulating DataFrames with pandas](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(1).pdf)
 
-1.1.3 [pandas foundations](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(2).pdf)
+1.1.3 [Pandas foundations](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(2).pdf)
 
-1.1.4 [introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(4).pdf)
+1.1.4 [Introduction to data visualization in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(4).pdf)
 
-1.1.5 [introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(3).pdf)
+1.1.5 [Introduction to python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(3).pdf)
 
-1.1.6 [python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(5).pdf)
+1.1.6 [Python data science toolbox (part 1)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(5).pdf)
 
-1.1.7 [python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(6).pdf)
+1.1.7 [Python data science toolbox (part 2)](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(6).pdf)
 
-1.1.8 [data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(7).pdf)
+1.1.8 [Data types for data science in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(7).pdf)
 
-1.1.9 [cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(8).pdf)
+1.1.9 [Cleaning data in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(8).pdf)
 
-1.1.10 [preprocessing for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(9).pdf)
+1.1.10 [Preprocessing for machine learning in python](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/datacamp%20courses/certificate%20(9).pdf)
 
 
 ___
