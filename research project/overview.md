@@ -8,14 +8,14 @@ De planning kan worden opgedeeld in 2 scopes. Ten eerste is er de globale planni
 - (week 16-20) Afronding, Paper
 
 
-*deadlines*
+**deadlines**
 
 
 - (week 16) toets
 - (week 17) inleveren portfolio en paper
 - (week 20) groep assesment
 
-*week indeling*
+**week indeling**
 
 
 - maandag: 
@@ -41,7 +41,7 @@ De planning kan worden opgedeeld in 2 scopes. Ten eerste is er de globale planni
 4. (15:00) retrospective
 
 
-*Scrum* 
+**Scrum**
 
 
 Een scrum proces is onderverdeeld in een aantal elementen/activiteiten. Het is voor ons niet rendabel om scrum geheel op de regel te volgen, omdat het merendeel van het team geen ervaring heeft met scrum en we onszelf niet willen laten verdrinken in de details. Daarom houden wij de volgende activiteiten aan: 
@@ -55,7 +55,7 @@ Een scrum proces is onderverdeeld in een aantal elementen/activiteiten. Het is v
 Deze activiteiten worden hieronder toegelicht. Daarnaast moet de voortgang binnen het scrum proces ook ergens worden bijgehouden, om een overzicht te creëren van wat er allemaal gedaan moet worden. Dit overzicht houden wij bij via een bord op Trello.   
 
 
-*Sprint planning/backlog refinement*
+**Sprint planning/backlog refinement**
 
 De sprint planning gebeurt aan het begin van elke sprint (elke week) en is bedoeld om de backlog aan te vullen met taken. De taken, die we van plan zijn om voor de week te doen, dienen vervolgens in de kolom: “te doen” gezet te worden. Deze taken behoren dusdanig geconcretiseerd te worden, zodat elk teamlid begrijpt wat deze taken inhouden. Daarom dient elke taak (binnen het Trellobord) aan een aantal eisen te voldoen. Deze eisen zijn: 
 
@@ -82,12 +82,12 @@ Verder zijn er ook nog een aantal aandachtspunten die wij als groep rekening in 
 Als laatst, behoren de geplande taken (tijdens een sprint planning) aan te sluiten op de globale planning en de desbetreffende fase waar wij op dat moment in zitten. Een gezonde sprint bevat, in ons geval, ongeveer 20 tot 30 taken (dus ongeveer 3 á 4 taken per persoon). 
 
 
-*Daily stand-up* 
+**Daily stand-up**
 
 We beginnen elke dag (rond 09:30) met een daily stand-up. Hierbij vertelt iedereen, wat zij gisteren hebben gedaan, wat zij vandaag gaan doen en/of zij tegen problemen aan lopen. Het doel van een stand-up is om in kaart te brengen waar iedereen mee bezig is en/of er blokkades zijn die de uitvoering van een taak belemmerd. 
 
 
-*Sprint review/retrospective* 
+**Sprint review/retrospective**
 
 De sprint review/retrospective, vind plaats aan het eind van een sprint (elke vrijdag). De sprint review/retrospective zijn normaal gesproken twee aparte activiteiten, maar wij hebben besloten om ze samen te voegen tot één activiteit. Tijdens deze review/retrospective bespreken wij dus eerst wat we deze week hebben opgeleverd (dit is het review aspect). Vervolgens houden we een retrospective. De retrospective houden wij in een tool genaamd: “Retro Metro”. Een retrospective omvat het invullen van kaartjes in verschillende categorieën. Er bestaan verschillende soorten templates voor deze categorieën, maar voor de consistentie maken wij gebruik van de 4 L’s (Liked/Learned/Lacked/Longed for). Zodra de sessie begint, krijgt iedereen eerst 15 minuten de tijd om kaartjes in te vullen in de gegeven categorieën. Zodra de 15 minuten over zijn weergeeft iedereen zijn kaartjes en gaan we een voor een de kaartjes af en bespreken deze. Na de sessie wordt het retrospective bord opgeslagen in CSV formaat. Vervolgens wordt het geüpload op Microsoft Teams. 
 
