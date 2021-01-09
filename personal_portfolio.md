@@ -70,7 +70,7 @@ ___
 
 
 
-### 1.2 reflection and evaluation   (400 woorden en STARR method)
+### 1.2 reflection and evaluation 
 
 1.2.1 [Reflection on own contribution to the product](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20product.md)
 
