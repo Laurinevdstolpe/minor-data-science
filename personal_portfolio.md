@@ -147,6 +147,6 @@ ____
 
 ### 6. Communication
 
-6.1 [Presentations](https://github.com/Laurinevdstolpe/minor-data-science/create/main/Presentations.md)
+6.1 [Presentations](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/Presentations.md)
 
 6.2 [Writing paper](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/Writing%20paper.md)
