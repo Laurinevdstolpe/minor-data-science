@@ -18,7 +18,7 @@ Then I had to look at the subquestions that could give an awnser to this researc
 - lab (data analyse): Welke data kan worden gebruikt voor het verbeteren van de voorspelling? 
 
 
-Now that the subquestions were made, Rick and I started to take a second look at the research question and saw that it wasn't an open question, so we made a third research question and decided that our product owner had to decide which he thought was best. That last reseacht question was:	Hoe kan PostNL machine learning modellen toe passen, om te voorspellen hoeveel pakketten er voor de volgende dag verwerkt moeten worden? 
+Now that the subquestions were made, Rick and I started to take a second look at the research question and saw that it wasn't an open question, so we made a third research question and decided that our product owner had to decide which he thought was best. That last reseacht question was:	How can PostNL apply machine learning models, to predict the number of parcels that need to be processed for the next day? 
 
 
 And this is the one our product owner thought was best so we made that our final research question. 
