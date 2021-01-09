@@ -19,7 +19,26 @@ De planning kan worden opgedeeld in 2 scopes. Ten eerste is er de globale planni
 
 
 - maandag: 
-1. 9:30 daily standup
+1. (9:30) daily standup
+2. (10:00) wekelijkse presentatie
+3. (13:00) college
+4. (15:00) sprintplanning
+- dinsdag:
+1. (9:30) daily standup
+2. (10:00) gesprek Brian de Keijzer
+3. (12:00) gesprek Gerda in 't Veld
+4. (13:00) gesprek Antony Andrioli
+5. (14:30) gesprek Ruud Vermeij
+- woensdag:
+1. (9:30) daily standup
+2. (13:00) workshop
+- donderdag:
+1. (9:30) daily standup
+- vrijdag:
+1. (9:30) daily standup
+2. (10:00) gesprek Tim Ottens
+3. (13:00) gesprek Jeroen Vuurens
+4. (15:00) retrospective
 
 
 *Scrum* 
