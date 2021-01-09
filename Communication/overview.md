@@ -1,8 +1,14 @@
 # overview
 
-Overzicht (overview) 
+Titel: Een titel is specifiek, duidelijk anders dan andere, niet te lang niet te kort, geen generale titel, denk aan wat mensen intypen in google scholar. 
 
-Titel: Een titel is specifiek, duidelijk anders dan andere, niet te lang niet te kort, geen generale titel, denk aan wat mensen intypen in google scholar. Abstract (in 1 zin al deze subs beantwoorden): motivatie: waarom boeit ons het resultaat? probleemstelling: wat is het probleem en wat is het bereik van het werk? Aanpak: wat is er gedaan om het probleem op te lossen? Resultaat: wat is het antwoord op het probleem? Conclusie: wat zegt het antwoord ons? (In verleden tijd! Geen referenties)  
+Abstract (in 1 zin al deze subs beantwoorden): 
+
+motivatie: waarom boeit ons het resultaat? 
+probleemstelling: wat is het probleem en wat is het bereik van het werk? 
+Aanpak: wat is er gedaan om het probleem op te lossen? 
+Resultaat: wat is het antwoord op het probleem? 
+Conclusie: wat zegt het antwoord ons? (In verleden tijd! Geen referenties)  
 
 • Introductie  (van probleem tot oplossing)  Onderzoeksvraag beantwoorden.  Slide 9!!!  
 
