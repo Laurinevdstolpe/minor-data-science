@@ -1,5 +1,8 @@
-I made an overview and wote the introduction for so far, here you can see what I wrote in Dutch:
-Overzicht (overview)
+# Writing paper
+
+I made an [overview]() of what had to be in the paper, here you can see what I wrote in Dutch:
+
+**Overzicht (overview)**
 Titel: Een titel is specifiek, duidelijk anders dan andere, niet te lang niet te kort, geen generale titel, denk aan wat mensen intypen in google scholar.  
 Abstract (in 1 zin al deze subs beantwoorden): motivatie: waarom boeit ons het resultaat? probleemstelling: wat is het probleem en wat is het bereik van het werk? Aanpak: wat is er gedaan om het probleem op te lossen? Resultaat: wat is het antwoord op het probleem? Conclusie: wat zegt het antwoord ons? (In verleden tijd! Geen referenties)  
 •	Introductie  
@@ -27,6 +30,9 @@ Wat betekenen je vindingen? 
 Verwijzen naar opening.  
   
 Om ons te beoordelen (slide 17,18, 19, 20, 21)  
+
+I also looked into the slides that were on blackboard and decided to put every part on a seperate page and translate them to Dutch, because two of our groupmembers are really bad at English. Then I made the [introduction](), the data bit and made up a title. After these were done we had to divide the rest for the Christmas break and so we split up in groups of two and Emir and I had to make the Techniques and discussion. First I made an overview of what techniques had to go in and then I did the techniques that were used on multivariate lineair regression and Emir the techniques of SARIMA. Ofcourse we checked eachother as well. And with the discussion I again made an overview and we both did some bits.
+
 
 Introductie (introduction)
 PostNL is een internationaal dienstverlener in post, pakketten en e-commerce gerelateerde zaken. In dit onderzoek wordt er alleen aandacht gegeven aan de pakketten van PostNL in Nederland. Bij het verwerkingsproces van deze pakketten gaat het al snel om duizenden pakketten per dag. Om er zeker van te zijn dat alle pakketten op tijd worden verwerkt, moet de organisatie ten alle tijden over genoeg capaciteit, betreft het aantal werknemers, beschikken. Aan de hand van allerlei verschillende factoren kunnen er echter inconsistenties ontstaan in het aantal pakketten dat verwerkt moet worden. Dit vormt een probleem, aangezien een onverwachte stijging in het aantal pakketten druk legt op het aantal werknemers binnen dit verwerkingsproces, dat uiteindelijk kan leiden tot vertragingen. 
