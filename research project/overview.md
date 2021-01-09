@@ -19,7 +19,7 @@ De planning kan worden opgedeeld in 2 scopes. Ten eerste is er de globale planni
 
 
 - maandag: 
-a. 9:30 daily standup
+1. 9:30 daily standup
 
 
 *Scrum* 
