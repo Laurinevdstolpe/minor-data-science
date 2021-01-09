@@ -2,6 +2,25 @@
 
 De planning kan worden opgedeeld in 2 scopes. Ten eerste is er de globale planning. Dit aspect is bedoeld om een algemeen overzicht te creëren van hoe het project is opgezet. Daarnaast bestaat de planning ook nog uit een wekelijkse planning, die wij op een soort scrum manier willen gaan uitvoeren. 
 
+- (week 1-4) Opzet van het onderzoek
+- (week 5-10) Orentatie en implementatie
+- (week 10-15) Uitbreiding, verbeteren modellen
+- (week 16-20) Afronding, Paper
+
+
+*deadlines*
+
+
+- (week 16) toets
+- (week 17) inleveren portfolio en paper
+- (week 20) groep assesment
+
+*week indeling*
+
+
+- maandag: 
+a. 9:30 daily standup
+
 
 *Scrum* 
 
