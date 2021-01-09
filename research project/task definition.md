@@ -1,5 +1,8 @@
 # Task definition
 
+PostNL came to us with the problem that they can not predict the number of parcels for the next day and therefor they can not know how many deliverers they need to set in. Therefor they sometimes cope with the problem that they have too many deliverers who didn't work while getting paid. And also the other way around, they have stress because there are too many parcels to be delivered for the number of deliverers. So PostNL asked us to create a model that predicts the number of parcels for the next day. 
+
+
 Rick and I sat together to clearly discribe the context and research question a few times. The first time we created a research question we came to the following: How many parcels do we predict every client will process the next day?
 
 
