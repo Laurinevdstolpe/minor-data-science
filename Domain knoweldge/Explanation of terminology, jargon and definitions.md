@@ -1,6 +1,6 @@
 # Explanation of terminology, jargon and definitions 
 
-#### fundamentals
+### fundamentals
 
 - **Machine Learning:** A process where a computer uses an algorithm to gain understanding about a set of data, then makes predictions based on its understanding. There are many types of machine learning techniques; most are classified as either supervised or unsupervised techniques.
 
@@ -24,7 +24,7 @@
 
 
 
-#### Fields of focus
+### Fields of focus
 
 - **Data Analysis:** This discipline is the little brother of data science. Data analysis is focused more on answering questions about the present and the past. It uses less complex statistics and generally tries to identify patterns that can improve an organization.
 
@@ -35,7 +35,7 @@
 - **Data Visualization:** The art of communicating meaningful data visually. This can involve infographics, traditional plots, or even full data dashboards.
 
 
-#### Statistical tools
+### Statistical tools
 
 - **Correlation:** Correlation is the measure of how much one set of values depends on another. If values increase together, they are positively correlated. If one values from one set increase as the other decreases, they are negatively correlated. There is no correlation when a change in one set has nothing to do with a change in the other.
 
@@ -61,7 +61,7 @@
 - **Variance:** The variance of a set of values measures how spread out those values are. Mathematically, it is the average difference between individual values and the mean for the set of values. The square root of the variance for a set gives us the standard deviation, which is more intuitively useful.
 
 
-#### Machine Learning Techniques
+### Machine Learning Techniques
 
 - **Feature Selection:** The process of identifying what traits of a data set are going to be the most valuable when building a model. It’s especially helpful with large data sets, as using fewer features will decrease the amount of time and complexity involved in training and testing a model. The process begins with measuring how relevant each feature in a data set is for predicting your target variable. You then choose a subset of features that will lead to a high-performance model.
 
