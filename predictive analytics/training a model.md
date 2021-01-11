@@ -1,3 +1,10 @@
 # Training a model
 
-So when I trained the model I ran it a couple of times to see when the model was at its best. So for example I tried to take 2015 to 2018 as training set and then testing it on 2019. Then changing it to training: 2015 to 2019 month 11 and testing it on 2019 month 12. Eventually it ran best with 2015-2019 month 7 and testing it on 2019 month 7 to 2019 month 11. see: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb
+MODEL MVLR klant 153
+
+
+
+
+
+
+
