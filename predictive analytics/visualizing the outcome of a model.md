@@ -1,3 +1,4 @@
 # Visualizing the outcome of a model
 
-See links: https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/MVLR%20klant%20153.ipynb and https://datascience.hhs.nl:8888/user/18122256/notebooks/parcel/stolpe_l/AR%20klant%20153%20(op%20de%20data%20van%20een%20week%20terug).ipynb
+MVLR klant 153 visualization.
+
