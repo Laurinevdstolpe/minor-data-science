@@ -1,4 +1,3 @@
 # Visualizing the outcome of a model
 
-MVLR klant 153 visualization.
-
+In [this screenshot]() of my mvlr model you can see how I visualised the model. 
