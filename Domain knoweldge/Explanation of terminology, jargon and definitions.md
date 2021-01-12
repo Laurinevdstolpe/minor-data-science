@@ -1,5 +1,7 @@
 # Explanation of terminology, jargon and definitions 
 
+These are all the important and relevant terminologym jargon and definitions:
+
 ### fundamentals
 
 - **Machine Learning:** A process where a computer uses an algorithm to gain understanding about a set of data, then makes predictions based on its understanding. There are many types of machine learning techniques; most are classified as either supervised or unsupervised techniques.
