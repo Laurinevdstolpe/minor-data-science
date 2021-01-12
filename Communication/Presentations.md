@@ -10,7 +10,7 @@ Then I prepared and gave another presentation on monday the 16th of november. Th
 [Here](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/ppt%20week%2011.pdf) is the second presentation.
 
 And my last presentation was on the 4th of january. Here I also got no questions that I could not awnser. 
-[Here](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/ppt%20week%2016.pdf) is that last presentation
+[Here](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/ppt%20week%2016.pdf) is that last presentation.
 
 I believe that I will also do the final presentation, but we have not decided that yet.
 
