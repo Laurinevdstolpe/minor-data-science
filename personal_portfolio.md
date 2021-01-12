@@ -74,7 +74,7 @@ ___
 
 ### 1.2 reflection and evaluation 
 
-1.2.1 [Reflection on own contribution to the project](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20product.md)
+1.2.1 [Reflection on own contribution to the project](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20contribution%20to%20the%20project.md)
 
 1.2.2 [Reflection on own learning objectives](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Reflection%20and%20evaluation/Reflection%20on%20own%20learning%20objectives.md)
 
