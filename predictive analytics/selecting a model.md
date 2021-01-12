@@ -1,5 +1,6 @@
 # Selecting a model
 
+Before you select a model, you look into the data and see what fits.
 We got the data from PostNL, which was a dataset with:  
 - Procesdag  
 
