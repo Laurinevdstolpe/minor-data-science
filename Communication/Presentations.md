@@ -7,7 +7,7 @@ I got two questions and anwsered them myself, for the rest I only got good feedb
 [Here](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/ppt%20week%204.pptx) is that presentation, only the graphs I put in later and forgot to save.
 
 Then I prepared and gave another presentation on monday the 16th of november. The questions that were asked here, I awnsered myself. I got a comment that we had to take a look at the day before and not the week before when we predict the number of parcels. This was a usefull comment of Jeroen Vuurens. For the rest I was told that we had to tell more about what we train, validate and test our model on. Also usefull. For the rest there were no remarks. 
-[Here]() is the second presentation.
+[Here](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/ppt%20week%2011.pdf) is the second presentation.
 
 And my last presentation was on the 4th of january. Here I also got no questions that I could not awnser. 
 [Here]() is that last presentation
