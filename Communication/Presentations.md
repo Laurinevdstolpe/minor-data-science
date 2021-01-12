@@ -12,4 +12,4 @@ And my last presentation was on the 4th of january. Here I also got no questions
 I believe that I will also do the final presentation, but we have not decided that yet.
 
 
-[Here]() you can see in Trello my presentations.
+[Here](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/2021-01-12%20(12).png) you can see in Trello my presentations.
