@@ -1,5 +1,9 @@
 # Data explenation
 
+
+Because I wrote the data-part in the paper I can just copy paste this here:
+
+
 Voor het ontwikkelen van de voorspellingen hebben de onderzoekers gebruik gemaakt van een dataset in een Excel bestand met daarin kolommen met de volgende gegevens: 
 
 - Procesdag  (Deze kolom geeft de datum aan in de periode 2015-01-02 en 2020-04-29) 
