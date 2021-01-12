@@ -10,7 +10,7 @@
 
 **Date:** 12-1-2021
 
-**Course:** applied data science minor
+**Course:** Applied data science minor
 
 **Instructors:** Tony Andrioli;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
 
