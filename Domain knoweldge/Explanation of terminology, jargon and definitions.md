@@ -1,6 +1,6 @@
 # Explanation of terminology, jargon and definitions 
 
-These are all the important and relevant terminologym jargon and definitions:
+## These are all the important and relevant terminologym jargon and definitions:
 
 ### fundamentals
 
