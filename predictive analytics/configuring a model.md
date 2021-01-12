@@ -4,7 +4,7 @@ With the mvlr-model I first made a feature selection. I made a correlation matri
 - [holidays](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/2021-01-12.png)
 - [google trends](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/2021-01-12%20(1).png)
 - [knmi weather data](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/2021-01-12%20(2).png)
-- [weekdays]()
+- [weekdays](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/predictive%20analytics/2021-01-12%20(3).png)
 
 SCREENSHOTS 
 
