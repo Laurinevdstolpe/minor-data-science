@@ -10,3 +10,6 @@ Then I prepared and gave another presentation on monday the 16th of november. Th
 And my last presentation was on the 4th of january. Here I also got no questions that I could not awnser. 
 
 I believe that I will also do the final presentation, but we have not decided that yet.
+
+
+[Here]() you can see in Trello my presentations.
