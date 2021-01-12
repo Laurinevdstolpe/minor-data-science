@@ -12,7 +12,7 @@
 
 **Course:** applied data science minor
 
-**Instructors:** Tony Andrioli;  Brian de Keijzer;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
+**Instructors:** Tony Andrioli;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
 
 **Task definition:** This portfolio summerizes my individual work and effort for the parcel project of the applied data science minor at the the hageu university. In the parcel project we aim to predict the number of parcels for the next day.
 
