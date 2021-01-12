@@ -8,6 +8,8 @@
 
 **Student number:** 18122256
 
+**Date:** 12-1-2021
+
 **Course:** applied data science minor
 
 **Instructors:** Tony Andrioli;  Brian de Keijzer;  Brian de Keijzer;  Geertruida in 't Veld;  Ruud Vermeij;  Jeroen Vuurens;
