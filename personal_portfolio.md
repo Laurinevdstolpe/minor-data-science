@@ -153,4 +153,4 @@ ____
 
 6.2 [Writing paper](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/Writing%20paper.md)
 
-6.3 [summary]()
+6.3 [Summary](https://github.com/Laurinevdstolpe/minor-data-science/blob/main/Communication/lectures%20sv%20datascience.docx)
